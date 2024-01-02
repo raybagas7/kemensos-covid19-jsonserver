@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "civils": [
+    {
+      "id": 1,
+      "nama": "Asep Rahman",
+      "NIK": 7501438869711328,
+      "NKK": 7501438869711320,
+      "foto_ktp": "",
+      "foto_kk": "",
+      "umur": 27,
+      "gender": "laki-laki",
+      "provinsi": "JAWA BARAT",
+      "kab_kota": "KABUPATEN BANDUNG",
+      "kecamatan": "BALEENDAH",
+      "kelurahan_desa": "BALEENDAH",
+      "alamat": "Jl. RAA. Wiranata Kusuma Komp. Graha Sari Endah Blok.Rambutan 1 No.10",
+      "rt": 2,
+      "rw": 16,
+      "gaji_sebelum": 7000000,
+      "gaji_sesudah": 5000000,
+      "alasan": "Kepala keluarga terdampak atau korban Covid-19"
+    }
+  ]
 }
